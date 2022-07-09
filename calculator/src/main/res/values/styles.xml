@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Button.Orange" parent="ThemeOverlay.AppCompat">
+        <item name="colorAccent">@color/orange</item>
+    </style>
+    <style name="Button.Dark" parent="ThemeOverlay.AppCompat">
+        <item name="colorAccent">@color/dark_gray</item>
+    </style>
+    <style name="Button.Gray" parent="ThemeOverlay.AppCompat">
+        <item name="colorAccent">@color/gray</item>
+    </style>
+</resources>
